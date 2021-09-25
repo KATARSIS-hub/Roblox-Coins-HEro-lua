@@ -1,0 +1,54 @@
+local A_1 = "KillEnemy"
+local A_2 = "Orc"
+local Event = game:GetService("ReplicatedStorage").NetworkEvents.RemoteEvent
+Event:FireServer(A_1, A_2)
+wait()
+local A_1 = "KillEnemy"
+local A_2 = "Orc"
+local Event = game:GetService("ReplicatedStorage").NetworkEvents.RemoteEvent
+Event:FireServer(A_1, A_2)
+wait()
+local A_1 = "KillEnemy"
+local A_2 = "Orc"
+local Event = game:GetService("ReplicatedStorage").NetworkEvents.RemoteEvent
+Event:FireServer(A_1, A_2)
+wait()
+local A_1 = "KillEnemy"
+local A_2 = "Orc"
+local Event = game:GetService("ReplicatedStorage").NetworkEvents.RemoteEvent
+Event:FireServer(A_1, A_2)
+wait()
+local A_1 = "KillEnemy"
+local A_2 = "Orc"
+local Event = game:GetService("ReplicatedStorage").NetworkEvents.RemoteEvent
+Event:FireServer(A_1, A_2)
+wait()
+local A_1 = "KillEnemy"
+local A_2 = "Orc"
+local Event = game:GetService("ReplicatedStorage").NetworkEvents.RemoteEvent
+Event:FireServer(A_1, A_2)
+wait()
+local A_1 = "KillEnemy"
+local A_2 = "Orc"
+local Event = game:GetService("ReplicatedStorage").NetworkEvents.RemoteEvent
+Event:FireServer(A_1, A_2)
+wait()
+local A_1 = "KillEnemy"
+local A_2 = "Orc"
+local Event = game:GetService("ReplicatedStorage").NetworkEvents.RemoteEvent
+Event:FireServer(A_1, A_2)
+wait()
+local A_1 = "KillEnemy"
+local A_2 = "Orc"
+local Event = game:GetService("ReplicatedStorage").NetworkEvents.RemoteEvent
+Event:FireServer(A_1, A_2)
+wait()
+local A_1 = "KillEnemy"
+local A_2 = "Orc"
+local Event = game:GetService("ReplicatedStorage").NetworkEvents.RemoteEvent
+Event:FireServer(A_1, A_2)
+wait()
+local A_1 = "KillEnemy"
+local A_2 = "Orc"
+local Event = game:GetService("ReplicatedStorage").NetworkEvents.RemoteEvent
+Event:FireServer(A_1, A_2)
